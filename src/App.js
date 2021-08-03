@@ -147,7 +147,7 @@ function App() {
           </a>
         </Grid>
         <Grid item xs={12} sm={6} md={4}>
-          <a className={classes.a} href="#">
+          <a className={classes.a} href="/#">
             <Project
               image={process.env.PUBLIC_URL + "/img/hiaf.png"}
               title="Online Portfolio"
