@@ -82,13 +82,11 @@ function App() {
     <div className={classes.app}>
       <Header></Header>
       <div className={classes.top}>
-        <Typography className={classes.hi}>Hi, I'm Nicole</Typography>
+        <Typography className={classes.hi}>Hi, I'm Maddie</Typography>
         <div className={classes.border}></div>
         <Typography className={classes.text}>
-          I'm a frontend developer / UI designer from Trondheim. This page
-          contains different projects I've made in my free time to practice my
-          web development skills. Offline, I like to read, draw, watch movies,
-          cook, and walk my{" "}
+          I'm a just a trying to live my life, ride my horses and
+            drive my parents a special kind of crazy.  Oh and walk my{" "}
           <span className={classes.dog} onClick={handleClickOpen}>
             dog
           </span>
@@ -159,7 +157,7 @@ function App() {
           </a>
         </Grid>
         <Grid item xs={12} sm={6} md={4}>
-          <a className={classes.a} href="https://dribbble.com/imnicole">
+          <a className={classes.a} href="https://dribbble.com/doc22940">
             <Project
               image={process.env.PUBLIC_URL + "/img/squashpattern.png"}
               title="Illustrations"
