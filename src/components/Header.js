@@ -26,14 +26,14 @@ const Header = () => {
       <Link
         variant="body2"
         className={classes.link}
-        href={"https://www.linkedin.com/in/nicole-dyrnes/"}
+        href={"https://www.linkedin.com/in/doc22940/"}
       >
         LinkedIn
       </Link>
       <Link
         variant="body2"
         className={classes.link}
-        href={"https://github.com/nicole-git"}
+        href={"https://github.com/22940dev"}
       >
         GitHub
       </Link>
